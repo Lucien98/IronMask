@@ -1,0 +1,1 @@
+experiment/run_im.sh: line 1: 147822 Segmentation fault      (core dumped) ./ironmask gadgets/ISW/mult/gadget_mult_2_shares.sage NI -t 1 -j 4 >> experiment/im_results/ISW_mult/ng_2_shares.txt

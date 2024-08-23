@@ -1,0 +1,26 @@
+Circuit with 3 variables
+total_wires = 5
+secret_count = 1
+output_count = 1
+random_count = 1
+share_count = 2
+all_shares_mask = 3
+contains_mults = 0
+has_input_rands = 0
+mult_count = 0
+Dependencies:
+  0: { [ 1 0 ] 1  }  [a0]
+  1: { [ 2 0 ] 2  }  [a1]
+  2: { [ 0 1 ] 0  }  [r0]
+  3: { [ 1 1 ] 1  }  [d0]
+  4: { [ 2 1 ] 2  }  [d1]
+Gadget with 1 input(s),  1 output(s),  2 share(s)
+Total number of intermediate variables : 3
+Total number of variables : 5
+Total number of Wires : 5
+
+Size 1: 0 tuples
+Gadget is 1-NI.
+
+
+Verification completed in 0 min 0 sec.
